@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/zmFGkKZ/800px-Google-G-Logo-svg.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full-time",
+    "salary": "$80,000 - $100,000 per year",
+    "job_description": "Join Google as a software engineer and work on cutting-edge projects that push the boundaries of technology. You will have the opportunity to innovate, solve complex problems, and shape the future of software development.",
+    "job_responsibility": "As a software engineer, your responsibilities will include developing and maintaining high-quality software, collaborating with cross-functional teams, and contributing to Google's mission of organizing the world's information and making it universally accessible and useful. You will be at the forefront of technological advancements, driving innovation and excellence.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of relevant experience.",
+    "contact_information": {
+      "phone": "+8801234567890",
+      "email": "careers@google.com",
+      "address": "123 Tech Street, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/L8nGYP2/vecteezy-samsung-logo-png-samsung-icon-transparent-png-20975545-617.png",
+    "job_title": "Data Analyst",
+    "company_name": "Samsung Electronics",
+    "remote_or_onsite": "Onsite",
+    "location": "Chittagong, Bangladesh",
+    "job_type": "Contract",
+    "salary": "$50,000 - $60,000 per year",
+    "job_description": "Join Samsung as a data analyst to work on exciting data projects that drive business decisions. You will be part of a dynamic team that leverages data to gain insights and make strategic choices.",
+    "job_responsibility": "As a data analyst, you will be responsible for analyzing data, creating comprehensive reports, and providing actionable insights that support decision-making processes across the organization. Your work will have a direct impact on Samsung's success in the competitive tech market.",
+    "educational_requirements": "Bachelor's degree in Data Science or related field.",
+    "experiences": "2+ years of data analysis experience.",
+    "contact_information": {
+      "phone": "+8809876543210",
+      "email": "careers@samsung.com",
+      "address": "456 Data Lane, Chittagong, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/YBZDMF2/apple-logo-transparent.png",
+    "job_title": "Network Administrator",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full-time",
+    "salary": "$70,000 - $85,000 per year",
+    "job_description": "Join Apple as a network administrator and help manage our global network infrastructure. This is an opportunity to be part of the team that ensures seamless connectivity and security for Apple's worldwide operations.",
+    "job_responsibility": "As a network administrator, your responsibilities will involve configuring and maintaining network equipment, troubleshooting issues, and implementing robust security measures to safeguard Apple's network infrastructure. Your expertise will be critical in maintaining the high standards of network performance and reliability that Apple is known for.",
+    "educational_requirements": "Bachelor's degree in IT or related field.",
+    "experiences": "4+ years of network administration experience.",
+    "contact_information": {
+      "phone": "+8802345678901",
+      "email": "careers@apple.com",
+      "address": "789 Network Avenue, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/9bk1HG8/Netflix-Logo-PNG.png",
+    "job_title": "Front-end Developer",
+    "company_name": "Netflix, Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Contract",
+    "salary": "$60,000 - $75,000 per year",
+    "job_description": "Join Netflix as a front-end developer to create engaging user interfaces that captivate audiences worldwide. You will play a pivotal role in shaping the visual experience of Netflix's millions of users.",
+    "job_responsibility": "As a front-end developer, your responsibilities will include developing user interfaces that seamlessly integrate with the design vision, collaborating closely with designers to bring creative concepts to life, and optimizing website performance for a smooth and enjoyable user experience. Your work will be instrumental in enhancing the Netflix platform's user engagement.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of front-end development experience.",
+    "contact_information": {
+      "phone": "+8803456789012",
+      "email": "careers@netflix.com",
+      "address": "567 Web Street, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/Fh49W7d/images-q-tbn-ANd9-Gc-SGDrif7-V52-AU5h-Up-Ni-RGXdze-Omxdsd-Vo-J4-Q-usqp-CAU.png",
+    "job_title": "Database Administrator",
+    "company_name": "Microsoft Corporation",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full-time",
+    "salary": "$75,000 - $90,000 per year",
+    "job_description": "Join Microsoft as a database administrator and take charge of managing critical databases that underpin the technology giant's operations. Your role will be pivotal in ensuring data reliability and security.",
+    "job_responsibility": "As a database administrator, your responsibilities will encompass the administration of databases, performing routine backups, and implementing robust security measures to safeguard Microsoft's valuable data assets. Your extensive experience will be essential in maintaining the integrity and availability of the company's critical databases.",
+    "educational_requirements": "Bachelor's degree in Database Management or related field.",
+    "experiences": "5+ years of database administration experience.",
+    "contact_information": {
+      "phone": "+8804567890123",
+      "email": "careers@microsoft.com",
+      "address": "101 Data Boulevard, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/MDBxxgn/amazon-logo-free-png.png",
+    "job_title": "AI/ML Researcher",
+    "company_name": "Amazon Web Services",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full-time",
+    "salary": "$90,000 - $110,000 per year",
+    "job_description": "Join AWS as an AI/ML researcher and work on innovative projects that push the boundaries of artificial intelligence and machine learning. This is a unique opportunity to contribute to cutting-edge research.",
+    "job_responsibility": "As an AI/ML researcher, you will conduct in-depth research, develop advanced algorithms, and contribute to AI innovation that powers AWS's cloud services. Your work will have a significant impact on the development of AI technologies that drive businesses across the globe.",
+    "educational_requirements": "Ph.D. in Artificial Intelligence or related field.",
+    "experiences": "2+ years of AI/ML research experience.",
+    "contact_information": {
+      "phone": "+8805678901234",
+      "email": "careers@amazon.com",
+      "address": "202 AI Lane, Dhaka, Bangladesh"
+    }
+  }
+]
